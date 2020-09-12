@@ -1,0 +1,45 @@
+
+body {
+  width: 80%;
+  border: 20px solid #bdc3c7;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 10px;
+  margin: 20px auto;
+  max-width: 700px;
+
+
+}
+
+h1 {
+	text-align: center;
+  font-size: 2.0rem;
+  font-weight: bold;
+  color: #2c3e50;
+  font-family: 'Monoton', cursive;
+  text
+}
+
+table{
+	padding: 20px;
+	width: 100%;
+	border:1px;
+
+}
+img{
+	
+	  width: 180px; 
+    height: 200px;
+    border-radius: 89.9%;
+	
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#Tab
+{
+	line-height: 2.0pt
+	max-width: 400px;
+
+}
